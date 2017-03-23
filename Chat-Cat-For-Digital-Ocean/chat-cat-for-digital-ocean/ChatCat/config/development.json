@@ -1,0 +1,10 @@
+{
+	"dbURL":"mongodb://<your-mongo-lab-connection-string>",
+	"sessionSecret":"LDKJFLJDKJKLJDLKJLKJIUWOIUWOIUW89798798",
+	"fb":{
+		"appID":"<your-facebook-appID->",
+		"appSecret":"<your-facebook-app-secret>",
+		"callbackURL":"http://localhost:3000/auth/facebook/callback"
+	},
+	"host":"http://localhost:3000"
+}
